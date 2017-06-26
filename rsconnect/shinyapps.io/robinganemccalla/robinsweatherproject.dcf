@@ -1,0 +1,11 @@
+name: robinsweatherproject
+title: Robin'sWeatherProject
+account: robinganemccalla
+server: shinyapps.io
+appId: 178729
+bundleId: 819098
+url: https://robinganemccalla.shinyapps.io/robinsweatherproject/
+when: 1494248157.22944
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: scrapy.cfg|weatherOneDay.csv|weatherOneYearBoston.csv|weatherOneYearSF.csv|weatherTenYearsBOS.csv|weatherTenYearsBOS1986.csv|weatherTenYearsBOS1996.csv|weatherTenYearsIAH.csv|weatherTenYearsIAH1986.csv|weatherTenYearsIAH1996.csv|weatherTenYearsJFK1986.csv|weatherTenYearsJFK1996.csv|weatherTenYearsORD.csv|weatherTenYearsORD1996.csv|weatherTenYearsSFO.csv|weatherTenYearsSFO1986.csv|weatherTenYearsSFO1996.csv|weatherThirtyYearsANC1986.csv|weatherThirtyYearsDCA1986.csv|weatherThirtyYearsJFK1986.csv|weatherThirtyYearsKLAX1986.csv|weatherThirtyYearsKMIA1986.csv|weatherThirtyYearsORD1986.csv|weatherThirtyYearsSFO1986.csv|Weather/__init__.py|Weather/__init__.pyc|Weather/items.py|Weather/items.pyc|Weather/middlewares.py|Weather/pipelines.py|Weather/pipelines.pyc|Weather/settings.py|Weather/settings.pyc|Weather/spiders/__init__.py|Weather/spiders/__init__.pyc|Weather/spiders/weather_spider.py|Weather/spiders/weather_spider.pyc
